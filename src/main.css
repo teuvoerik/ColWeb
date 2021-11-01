@@ -4,15 +4,24 @@ Together-1
 body {
     background: #b3b3b3;
     font-size: 125%;
+    margin: 3%;
 }
 
 header {
-    background: #666666;
+    background: #007faa;
     text-align: center;
+    padding: 15px;
 }
 
 h1 {
     color: #ffffff;
+}
+
+section {
+    width: 30%;
+    display: inline-block;
+    float: left;
+    margin-right: 2%;
 }
 
 nav {
@@ -23,7 +32,7 @@ nav {
 
 h2 {
     color: #666666;
-    background: #00b7ea;
+    background: #44a2e0;
 }
 
 summary {
@@ -35,5 +44,11 @@ details {
 }
 
 footer {
-    background: #666666;
+    background: #48b2b9;
+    clear: both;
+}
+
+img {
+    width: 125px;
+    background-color: #007faa;
 }
