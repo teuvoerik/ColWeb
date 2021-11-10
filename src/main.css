@@ -1,9 +1,18 @@
 /*
 Together-1
  */
+:root{
+    --primary-color:#7cbad4 ;
+    --secondary-color: firebrick;
+    --fontbase: 1.1rem;
+    --fontstack: Arial, "Times New Roman", serif;
+}
 body {
+    font-family:var(--fontstack);
+    font-size: var(--fontbase);
     background: #b3b3b3;
-    font-size: 125%;
+
+    /* font-size: 125%; */
     margin: 3%;
 }
 
@@ -14,7 +23,7 @@ header {
 }
 
 h1 {
-    color: #ffffff;
+    color: var(--primary-color);
 }
 
 section {
