@@ -1,0 +1,40 @@
+:root {
+    --primary-color: #32b3eb;
+    --secondary-color: firebrick;
+    --headtext-color: #023047;
+    --fontbase: 1.1rem;
+    --fontstack: Arial, "Times New Roman", serif;
+}
+
+body {
+    background: #b3b3b3
+    margin 2%;
+    font-size:125px;
+}
+
+header {
+}
+
+.half {
+}
+
+.whole {
+}
+
+nav {
+}
+
+nav a {
+}
+
+footer {
+}
+
+h1 {
+}
+
+h2 {
+}
+
+img {
+}
