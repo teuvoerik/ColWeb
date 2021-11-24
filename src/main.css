@@ -82,10 +82,10 @@ nav a {
 } */
 
 a {
-  background-color: rgb(51, 81, 182);
+  background-color: rgb(112, 148, 153);
   color: rgb(229, 234, 235);
   /* padding: 1em 1.5em; */
-  text-decoration: none;
+  text-decoration: center
   text-transform: uppercase;
 }
 
@@ -103,7 +103,7 @@ details {
 }
 
 footer {
-    height: 55px;
+    height: 1.8em;
     color: var(--footertext-color);
     /* color: var(--linkcolor); */
     clear: both;
